@@ -1,0 +1,5 @@
+  - git: https://github.com/msaf1980/cmake-utils
+    version: master
+    files:
+      - src: cmake/
+        dst: builddep/cmake-utils/
